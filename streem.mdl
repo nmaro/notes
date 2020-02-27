@@ -35562,3 +35562,9 @@ created: 1582839005639
 parent: 01E248VNX4E48SFETV0SBM7BM7
 
 Better UX when it comes to storage
+---
+id: 01E248YN539GN19DCCPGCZ5CCK
+created: 1582839059620
+parent: 01E248VNX4E48SFETV0SBM7BM7
+
+High prio: set message parent (for when using tab doesn't reach the wanted parent)
